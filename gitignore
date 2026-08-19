@@ -1,0 +1,12 @@
+# Data (too large / not yours to redistribute — link to Kaggle instead)
+creditcard.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
