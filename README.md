@@ -94,3 +94,8 @@ Mohanty, S.P., Hughes, D.P., Salathé, M. — [ULB Machine Learning Group / Worl
 - The dataset covers only two days of transactions; a production model would need continuous retraining and drift monitoring, which is out of scope here.
 - The cost model (fixed $5 investigation cost per false positive) is a simplifying assumption, not a real institution's actual cost structure.
 - With only 492 total fraud cases, results — especially calibration at high-confidence thresholds — carry meaningful statistical uncertainty.
+
+## License & Dataset Terms
+
+- **Code & Pipeline:** Licensed under the [MIT License](LICENSE).
+- **Dataset:** The [ULB Credit Card Fraud dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) is made available under the Open Database License (ODbL) by the Machine Learning Group (MLG) at ULB and Worldline.
